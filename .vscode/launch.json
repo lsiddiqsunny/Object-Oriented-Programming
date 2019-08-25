@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": "Object Oriented Programming_8c69c265"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "Object Oriented Programming_8c69c265"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A$Interface",
+            "request": "launch",
+            "mainClass": "A$Interface",
+            "projectName": "Object Oriented Programming_8c69c265"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A7",
+            "request": "launch",
+            "mainClass": "A7",
+            "projectName": "Object Oriented Programming_8c69c265"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Abstract",
+            "request": "launch",
+            "mainClass": "Abstract",
+            "projectName": "Object Oriented Programming_8c69c265"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "Object Oriented Programming_8c69c265"
+        }
+    ]
+}
